@@ -10,6 +10,9 @@ export default function Home() {
           <li>
             <Link href="/function">function test</Link>
           </li>
+              <li>
+            <Link href="/prop">props usage</Link>
+          </li>
         </ol>        
       </div>
     </>
